@@ -58,27 +58,22 @@ p{text-align: justify;}
 	 <p>Customização de Camisetas: stencil e arte urbana na moda – Ricardo Tatoo;</p>
 	 <p>História da Moda Através da Arte – Lorenzo Merlino;</p>
 	 <p>Personal Stylist – Dani Padilla.</p>
-
-
+	 <br>
 	<h2>Experiência Profissonal </h2>
 	<ul>
 	<p><li><strong>2018/2019: Empresa Júnior de Design Mackenzie</strong>
 			<br>Diretora e designer </li> </p>
-
+<br>
 	<p><li><strong>2018/2019: MACKPESQUISA</strong>
 					<br>Pesquisadora de graduação – Iniciação Científica </li> </p>
-
+<br>
 	<p><li><strong> 2015: SENAI/CETIQT</strong>
 					<br>Monitora da disciplina: Projeto Indústria </li> </p>
-
+<br>
 	<p><li><strong> 2011: CAMALEOA</strong>
-					<br>Consultora de estilo em desfile de moda (backstage) no Minas Trend 2011</li> </p>
-
-			 
+		<br>Consultora de estilo em desfile de moda (backstage) no Minas Trend 2011</li> </p>	 
 	</ul>
-
-	
-
+	<br>
 	<h2>Softwares</h2>
 	<ul>
 		<li>Adobe Photoshop</li>
@@ -87,11 +82,7 @@ p{text-align: justify;}
 		<li>Corel Draw</li>
 		<li>CAD</li>
 		<li>Pacote Office</li>
-
 	</ul>
-
-	
-
 	<h2>Idiomas</h2>
 	<ul>
 		<li>Inglês - Básico</li>
