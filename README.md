@@ -41,16 +41,12 @@ p{text-align: justify;}
         <p>Planejamento e desenvolvimento de coleção;</p>
 	<p>Produção de desfile de moda e  coordenação do backstage; </p>
 	<p>Elaboração e criação de croquis.</p>
-
-	
+	<br>
 	<h2>Formação Acadêmica</h2>
 	<p> Universidade Presbiteriana Mackenzie: Graduação em Design (Em curso) </p>
-        <p>  SENAI/CETIQT – Serviço Nacional de Aprendizagem Industrial: Graduação em Design – Habilitação em Moda (2015) </p>
-
-	
-
+        <p> SENAI/CETIQT – Serviço Nacional de Aprendizagem Industrial: Graduação em Design – Habilitação em Moda (2015) </p>
+	<br>
 	<h2>Aperfeiçoamento da Carreira (Cursos)</h2>
-
 	 <p>Identidade Visual: construção e expressão da imagem de uma marca – Gustavo Greco;</p>
          <p>Design Estratégico: posicionamento e arquitetura da marca – Gian Franco Rochiccioli;</p>
 	 <p>Branding na Moda: criando marcas com personalidade – Carlos Mach;</p>
