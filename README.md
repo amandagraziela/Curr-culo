@@ -1,4 +1,3 @@
-# Curr-culo
 <!DOCTYPE html>
 <html>
 <head>
