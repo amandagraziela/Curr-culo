@@ -42,13 +42,12 @@ p{text-align: justify;}
 	<p>Produção de desfile de moda e  coordenação do backstage; </p>
 	<p>Elaboração e criação de croquis.</p>
 
-	<hr> </hr>
-
+	
 	<h2>Formação Acadêmica</h2>
 	<p> Universidade Presbiteriana Mackenzie: Graduação em Design (Em curso) </p>
         <p>  SENAI/CETIQT – Serviço Nacional de Aprendizagem Industrial: Graduação em Design – Habilitação em Moda (2015) </p>
 
-	<hr> </hr>
+	
 
 	<h2>Aperfeiçoamento da Carreira (Cursos)</h2>
 
@@ -64,7 +63,6 @@ p{text-align: justify;}
 	 <p>História da Moda Através da Arte – Lorenzo Merlino;</p>
 	 <p>Personal Stylist – Dani Padilla.</p>
 
-	<hr>
 
 	<h2>Experiência Profissonal </h2>
 	<ul>
@@ -80,10 +78,10 @@ p{text-align: justify;}
 	<p><li><strong> 2011: CAMALEOA</strong>
 					<br>Consultora de estilo em desfile de moda (backstage) no Minas Trend 2011</li> </p>
 
-			 </p>
+			 
 	</ul>
 
-	<hr> </hr>
+	
 
 	<h2>Softwares</h2>
 	<ul>
@@ -96,7 +94,7 @@ p{text-align: justify;}
 
 	</ul>
 
-		<hr> </hr>
+	
 
 	<h2>Idiomas</h2>
 	<ul>
