@@ -12,11 +12,9 @@
 				float: left;
 				}
 p{text-align: justify;}
-
 	</style>
 </head>
 <body>
-
 <section>
 	<figure class="imagem">
 		<img src="ag.jpg.jpg" alt="Amanda Zafaneli" width="180" height="240"/>
