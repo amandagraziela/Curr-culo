@@ -1,19 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset= "utf-8" />
-	<title>Curriculum Vitae</title>
-	<style>
-			section{
-					width: 650px;
-					height: 250px;
-			}
-			.imagem{
-				float: left;
-				}
-p{text-align: justify;}
-	</style>
+<meta charset= "utf-8" />
+
 </head>
+
 <body>
 <section>
 	<figure class="imagem">
